@@ -30,10 +30,14 @@ This project was written in Python, using Jupyter Notebook on Anaconda. The requ
 - sklean.neighbours
 
 ## File Descriptions
-This zip contains 3 files. 
+This zip contains 4 files. 
 - `laptop Price predictor.ipynb` : the code notebook .
 - `Data` :
-- `README_DS` : read me file of my project
+- `README` : read me file of my project
+-  `Capstone Project` 
   
- 
+## Blog link :- https://medium.com/@ankush0106/data-scientist-capstone-project-udacity-4792275c57bd 
+
+## Acknowledgement 
+Firstly i would like to thank Udacity for providing me this opportunity and Kaggle to provide me the datasets. Also I would like to thank my Mentor to motive and provide necessary guidelines to complete this project.
 ## Thank You
